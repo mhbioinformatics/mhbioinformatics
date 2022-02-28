@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @XKbioinformatics
-- 👀 I’m interested in Python-based bioinformatics solutions
+- 👋 Hi, I’m Matt @mhbioinformatics
+- 👀 I’m interested in bioinformatics solutions
 - 🌱 I’m currently learning Python
 
 <!---
